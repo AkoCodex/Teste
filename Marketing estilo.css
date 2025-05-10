@@ -207,7 +207,10 @@ textarea.msg {
         justify-content: center;             
     }
     .destaque{
-        margin: 20px 0;
+        display: block;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
         width: 80%;
         height: auto;
     }
@@ -219,6 +222,9 @@ textarea.msg {
         align-items: center;
     }
     img{
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
         width: 80%;
         height: auto;
     }
